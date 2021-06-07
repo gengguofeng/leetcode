@@ -5,7 +5,7 @@
  */
 public class Test {
     public static void main(String[] args) {
-        Double aDouble = Double.valueOf("0.888");
+        Double aDouble = Double.valueOf("1.11111");
          System.out.println(aDouble);
     }
 }
